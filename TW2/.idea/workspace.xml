@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../lab-gui-1/to-javafx-1" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../lab-rx" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="126" />
+    <option name="y" value="27" />
+    <option name="width" value="1835" />
+    <option name="height" value="789" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539785878748" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="TW2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/scala/PROJEKT/Scala_Project_Ship_War/sbt_project" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/scala/PROJEKT/test" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/scala/SchoolSchedule" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/scala/coursera/course1/week4/patmat" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/scala/coursera/course1/week6/forcomp" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/scala/coursera/course2/week2/streams" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/scala/coursera/course2/week4/calculator" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/scala/coursera/course3/week1/scalashop" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/scala/coursera/course3/week2/reductions" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/scala/coursera/course3/week3/kmeans" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/scala/kuba/Signals-Var" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
