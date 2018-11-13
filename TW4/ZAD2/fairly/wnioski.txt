@@ -1,0 +1,18 @@
+M1000xP10:
+	Ilosc niezaspokojonych producentów = 0
+
+M1000xC10:
+	Ilosc niezaspokojonych konsumerów =  0	
+
+M10KxP100:
+	Ilosc niezaspokojonych producentów = 0
+
+M10KxC100:
+	Ilosc niezaspokojonych konsumerów =  8
+
+M100KxP1000:
+
+	Ilosc niezaspokojonych producentów = 18
+
+M100KxC1000:
+	Ilosc niezaspokojonych konsumerów =  0
