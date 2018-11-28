@@ -4,15 +4,9 @@ public class Main {
     {
         for(int i = 0; i < 11; i++) {
             int numberOfThreads = 4;
-            int numberOfTasks = 40;
-            boolean eachPixelIsTask = true;
-            Thread thread = new Thread(new Task(numberOfThreads, numberOfTasks, eachPixelIsTask));
-            thread.run();
-            try {
-                thread.join();
-            } catch (InterruptedException e) {
-                e.printStackTrace();
-            }
+            int numberOfTasks = 4;
+            boolean eachPixelIsTask = false;
+            new Mandelbrot(numberOfThreads,numberOfTasks,eachPixelIsTask).setVisible(true);
         }
     }
 }
